@@ -1,14 +1,14 @@
-Challenge Name: OSINT time
+# Challenge Name: OSINT time
 
-Category: OSINT / Forensics
+##Category: OSINT / Forensics
 
-Difficulty: Easy
+##Difficulty: Easy
 
-Challenge Description
+##Challenge Description
 Paste the original challenge text about Leo refusing to share his vacation location and posting a sloth photo.
 
 
-Approach
+##Approach
 
 
 
@@ -25,7 +25,7 @@ Approach
 6. Found the flag hidden in the Image Description and User Comment fields
 
 
-Lesson Learned
+##Lesson Learned
 
 Always read the full challenge description before diving in! A simple misread sent me down a rabbit hole of sloth geography before the answer was hiding in the metadata all along.
 
