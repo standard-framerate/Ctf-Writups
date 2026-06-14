@@ -1,5 +1,7 @@
 Challenge Name: OSINT time
+
 Category: OSINT / Forensics
+
 Difficulty: Easy
 
 Challenge Description
