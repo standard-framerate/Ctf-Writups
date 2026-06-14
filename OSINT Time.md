@@ -22,7 +22,7 @@ Approach
 
 5. Extracted the EXIF metadata using an online EXIF viewer (EXIFdata.com)
 
-6 .Found the flag hidden in the Image Description and User Comment fields
+6. Found the flag hidden in the Image Description and User Comment fields
 
 
 Lesson Learned
