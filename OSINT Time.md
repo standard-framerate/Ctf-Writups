@@ -1,14 +1,14 @@
 # Challenge Name: OSINT time
 
-##Category: OSINT / Forensics
+## Category: OSINT / Forensics
 
-##Difficulty: Easy
+## Difficulty: Easy
 
-##Challenge Description
+## Challenge Description
 Paste the original challenge text about Leo refusing to share his vacation location and posting a sloth photo.
 
 
-##Approach
+## Approach
 
 
 
