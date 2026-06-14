@@ -12,17 +12,17 @@ Approach
 
 
 
-Saw the sloth image and immediately started researching where sloths are commonly found geographically, trying to identify the location visually — without fully reading the challenge description first
+1. Saw the sloth image and immediately started researching where sloths are commonly found geographically, trying to identify the location visually — without fully reading the challenge description first
 
-After that didn't lead anywhere conclusive, went back and read the full challenge text which hinted the flag was stored with "other image details"
+2. After that didn't lead anywhere conclusive, went back and read the full challenge text which hinted the flag was stored with "other image details"
 
-Recognized this as a clue pointing to other image data. Googled what that could mean. Which took me to exifdata.com
+3. Recognized this as a clue pointing to other image data. Googled what that could mean. Which took me to exifdata.com
 
-Downloaded the sloth image from the challenge
+4. Downloaded the sloth image from the challenge
 
-Extracted the EXIF metadata using an online EXIF viewer (EXIFdata.com)
+5. Extracted the EXIF metadata using an online EXIF viewer (EXIFdata.com)
 
-Found the flag hidden in the Image Description and User Comment fields
+6 .Found the flag hidden in the Image Description and User Comment fields
 
 
 Lesson Learned
